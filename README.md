@@ -38,7 +38,7 @@ Agent: ⚠️ BLOCKED - Unauthorized data exfiltration attempt detected
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-agent-testbed.git
+git clone https://github.com/ashbhargav/ai-agent-testbed.git
 cd ai-agent-testbed
 
 # Start the test environment
